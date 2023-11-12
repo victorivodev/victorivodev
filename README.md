@@ -30,4 +30,4 @@
   <a href="victorivodev.github.io/web-curriculo" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/victorivodev/victorivodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/victorivodev/blob/output/github-contribution-grid-snake.svg)
