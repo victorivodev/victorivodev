@@ -19,7 +19,7 @@
   <img align="center" height="50" wigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="50" wigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" height="50" wigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVxODc3YTJjYWQzMHozOGhtbTc2ZWdjN3V0cDl6bXZmam9yOWY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMsjEwLjzL0HrL6KWI/giphy.gif"/>
+  <img align="right" height="250" wigth="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVxODc3YTJjYWQzMHozOGhtbTc2ZWdjN3V0cDl6bXZmam9yOWY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMsjEwLjzL0HrL6KWI/giphy.gif"/>
 </div>
 
 ##
