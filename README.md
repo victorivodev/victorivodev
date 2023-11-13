@@ -2,7 +2,7 @@
 
 - 💼 Atualmente trabalhando com desenvolvimento de software
 - 📗 Estudando e aprimorando conhecimentos em back-end
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/victorivodev">
