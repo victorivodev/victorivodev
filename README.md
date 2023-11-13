@@ -28,5 +28,6 @@
   <a href = "mailto:victorivo.comercial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorivosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://victorivodev.github.io/web-curriculo" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdteHF5OXF1N291cXZnbHo3eTBramsyb2R6cHFjZXF0ejFvN2Y5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BOYaI9q5hHp8i9s8Nr/source.gif"/>
 </div>
 
